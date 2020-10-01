@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+---
+
+<div style="margin-bottom:40px">
+	<center>
+		<h1>The next preparatory course will take place from October 21-27, 2020</h1>
+	</center>
+</div>
+
+{% for post in site.posts %}
+
+<article>
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}

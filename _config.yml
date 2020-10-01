@@ -1,0 +1,21 @@
+# Site Build Settings
+# jekyll-paginate configuration
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             []
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Home"
+description:	       "Pre-semester preparatory course for Master's students in Bioinformatics and Medical Informatics"
+#author:              "Leon Kuchenbecker"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
