@@ -42,3 +42,6 @@ The course takes place at the *Sand Campus* of the University of Tübingen.
 can find the building to your left after you have entered the Sand campus
 through the main gate.**
 
+⚠️ **There will be a one hour lunch brake every day, but be aware that there is
+no cafeteria at the Sand campus.**
+
