@@ -6,13 +6,6 @@ disqus:
 
 menu:
 - {name: 'General Information', folder: 'topic', file: 'general-information.html'}
-- {name: 'Unix / Linux', folder: 'general', file: 'general-information.html'}
-- {name: 'Git', folder: 'general', file: 'general-information.html'}
-#- {name: 'Learning Resources', folder: 'resources', file: 'learning-resources.html'}
-#- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-#- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-#- {name: 'About', folder: 'pages', file: 'about.html'}
-#- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #social:
