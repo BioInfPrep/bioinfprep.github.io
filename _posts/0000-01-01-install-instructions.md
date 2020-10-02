@@ -19,13 +19,13 @@ For the first part of the course covering Unix / Linux, you will need a
 Unix-like computer system to work with (who would have thought 🙂).
 
 <table style="border-collapse: collapse; border:none; max-width:800px; margin:auto">
-<tr><td style="border:none"><img style="width:80px;" src="/assets/img/linux_logo.svg"/></td><td style="border:none">
+<tr><td style="border:none"><img style="width:60px;" src="/assets/img/linux_logo.svg"/></td><td style="border:none">
 If you are using a laptop running any Linux distribution, you are good to go for the first day!
 </td></tr>
-<tr><td style="border:none"><img style="width:80px;" src="/assets/img/mac_logo.svg"/></td><td style="border:none">
+<tr><td style="border:none"><img style="width:60px;" src="/assets/img/mac_logo.svg"/></td><td style="border:none">
 macOS is a Unix operating system, so if you're laptop is a MacBook (Air), you're also good to go for the first course day!
 </td></tr>
-<tr><td style="border:none"><img style="width:80px;" src="/assets/img/windows_logo.svg"/></td><td style="border:none">
+<tr><td style="border:none"><img style="width:60px;" src="/assets/img/windows_logo.svg"/></td><td style="border:none">
 If you're laptop runs Microsoft Windows, you will need to set up a Linux
 environment to work with during the first and potentially also during the
 second course day. If you are running Windows 10, <a href="https://www.windowscentral.com/install-windows-subsystem-linux-windows-10">installing the Windows
