@@ -12,7 +12,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Home"
+title:		           "Tübingen Bioinfo Prep Course"
 description:	       "Pre-semester preparatory course for Master's students in Bioinformatics and Medical Informatics"
 #author:              "Leon Kuchenbecker"
 

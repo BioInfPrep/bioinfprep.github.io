@@ -5,7 +5,9 @@ disqus:
 
 
 menu:
-- {name: 'General Information', folder: 'general', file: 'general-information.html'}
+- {name: 'General Information', folder: 'topic', file: 'general-information.html'}
+- {name: 'Unix / Linux', folder: 'general', file: 'general-information.html'}
+- {name: 'Git', folder: 'general', file: 'general-information.html'}
 #- {name: 'Learning Resources', folder: 'resources', file: 'learning-resources.html'}
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
