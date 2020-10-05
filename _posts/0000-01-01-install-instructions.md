@@ -29,7 +29,7 @@ macOS is a Unix operating system, so if you're laptop is a MacBook (Air), you're
 If you're laptop runs Microsoft Windows, you will need to set up a Linux
 environment to work with during the first and potentially also during the
 second course day. If you are running Windows 10, <a href="https://www.windowscentral.com/install-windows-subsystem-linux-windows-10">installing the Windows
-Subsystem for Linux (WSL)</a> may be the easiest option to go for. Otherwise, please follow the <a href="#">instructions for installing a Linux virtual machine</a>.
+Subsystem for Linux (WSL)</a> may be the easiest option to go for. Otherwise, please follow the <a href="/help/vm-install.html">instructions for installing a Linux virtual machine</a>.
 </td></tr>
 </table>
 
