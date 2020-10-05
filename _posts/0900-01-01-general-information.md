@@ -15,10 +15,7 @@ Informatics*. The course typically covers the following topics:
 - An introduction to version control using Git
 - An introduction to typesetting with LaTeX
 - An introduction to programming in Python
-- An introduction to programming in Java
-
-*Note that the WS 2020-21 course will not contain the introduction to Java but
-will offer additional Python training instead.*
+- An introduction to programming in Java *(not taught in the WS2020/21 course)*
 
 The Bioinformatics Prep Course aims at introducing students to the basic
 computational issues. It is not going to cover entire programming taught in the
@@ -33,9 +30,19 @@ Due to the practical nature of the course we are planning to hold the course
 on-site in line with the University's regulations.  We will have to take
 precautions in line with the [hygiene
 concept](https://uni-tuebingen.de/universitaet/infos-zum-coronavirus/) of the
-University. We will keep you updated on the developments of the regulations.
+University and will keep you updated on the developments of the regulations.
 
 <table style="border-collapse: collapse; border:none; max-width:800px; margin:auto">
+<tr><td style="border:none"><img style="width:80px;" src="/assets/img/stop.svg"/></td><td style="border:none">
+You can <b>NOT</b> participate in the course if you had contact to an infected
+person within the last 14 days or currently have contact to an infected person.
+This includes working with patients without adequate protective measures (FFP2
+mask, overall, gloves, protective glasses).<br/><br/>
+
+You can <b>NOT</b> participate in the course if you have symptoms such as
+fever, dry caugh or partial or full loss of your sense of taste or sense of
+smell.
+</td></tr>
 <tr><td style="border:none"><img style="width:80px;" src="/assets/img/distance.svg"/></td><td style="border:none">
 A distance of at least 2m between all people in the room has to be kept
 (exceptions see below). The room in which the course will take place will be
