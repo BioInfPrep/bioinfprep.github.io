@@ -74,7 +74,7 @@ have questions regarding the software installation.
 
 ## Location
 
-![Sand](/assets/img/sand_wide.jpg)
+![Sand](/assets/img/sand_wide.jpg){:style="width:100%; max-width:1000px"}
 
 The course takes place at the *Sand Campus* of the University of Tübingen.
 
@@ -85,4 +85,4 @@ through the main gate.**
 ⚠️ **There will be a one hour lunch brake every day, but be aware that there is
 no cafeteria at the Sand campus.**
 
-![SandRoom](/assets/img/sandmap.png)
+![SandRoom](/assets/img/sandmap.png){:style="width:100%; max-width:1000px"}
