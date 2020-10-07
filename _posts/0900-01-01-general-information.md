@@ -67,7 +67,7 @@ to try everything that is discussed in the course right away. Tutors will be
 available to support you in these practical tasks. Unfortunately, we do not
 have a computer pool room available for the course. Therefore, ⚠️ **please bring your own laptop to the course** ⚠️.
 
-To save time during the course, we furthermore ask all participants to prepare
+To save time during the course, we ask all participants to prepare
 their computers by following the [Installation Instructions](/help/install-instructions.html) for software
 that is going to be used in the course. Do not hesitate to contact us if you
 have questions regarding the software installation.
