@@ -24,6 +24,64 @@ for those who are planning a career in bioinformatics, but have no experience
 with Linux-like systems and programming. It is a prep course, therefore no ECTS
 points are awarded.
 
+## Timetable
+
+<table>
+<colgroup>
+<col style="width:10%"/>
+<col style="width:17.5%"/>
+<col style="width:17.5%"/>
+<col style="width:17.5%"/>
+<col style="background-color:gray;"/>
+<col style="width:17.5%"/>
+<col style="width:17.5%"/>
+</colgroup>
+<thead style="font-weight: bold">
+<tr>
+<td></td>
+<td>Wed Oct 21</td>
+<td>Thu Oct 22</td>
+<td>Fri Oct 23</td>
+<td style="padding:0px"></td>
+<td>Mon Oct 26</td>
+<td>Tue Oct 27</td>
+</tr>
+</thead>
+<tbody style="">
+<tr>
+<td>09:00-12:00</td>
+<td>Unix / Linux</td>
+<td>Git and LaTeX</td>
+<td>Python<br><em>Basics</em></td>
+<td style="padding:0px"></td>
+<td>Python<br><em>OOP</em></td>
+<td>TBA</td>
+</tr>
+<tr style="font-style: italic">
+<td>12:00-13:00</td>
+<td colspan="6" style="text-align:center">Lunch break</td>
+</tr>
+<tr>
+<td>13:00-15:00</td>
+<td rowspan="2">Unix / Linux </td>
+<td rowspan="2">Python<br/><em>Basics</em></td>
+<td>
+Prof. Kay Nieselt<br/><em>Welcome and Orientation</em>
+</td>
+<td style="padding:0px"></td>
+<td>Python<br><em>Pandas</em></td>
+<td>TBA</td>
+</tr>
+<tr>
+<td>15:00-17:00</td>
+<td>Python<br><em>Basics</em></td>
+<td style="padding:0px"></td>
+<td>Python<br><em>Pandas</em></td>
+<td>TBA</td>
+</tr>
+</tbody>
+</table>
+
 ## COVID-19
 
 Due to the practical nature of the course we are planning to hold the course
