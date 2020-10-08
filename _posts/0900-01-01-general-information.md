@@ -29,12 +29,11 @@ points are awarded.
 <table>
 <colgroup>
 <col style="width:10%"/>
-<col style="width:17.5%"/>
-<col style="width:17.5%"/>
-<col style="width:17.5%"/>
+<col style="width:22%"/>
+<col style="width:22%"/>
+<col style="width:22%"/>
 <col style="background-color:gray;"/>
-<col style="width:17.5%"/>
-<col style="width:17.5%"/>
+<col style="width:22%"/>
 </colgroup>
 <thead style="font-weight: bold">
 <tr>
@@ -44,7 +43,6 @@ points are awarded.
 <td>Fri Oct 23</td>
 <td style="padding:0px"></td>
 <td>Mon Oct 26</td>
-<td>Tue Oct 27</td>
 </tr>
 </thead>
 <tbody style="">
@@ -55,7 +53,6 @@ points are awarded.
 <td>Python<br><em>Basics</em></td>
 <td style="padding:0px"></td>
 <td>Python<br><em>OOP</em></td>
-<td>TBA</td>
 </tr>
 <tr style="font-style: italic">
 <td>12:00-13:00</td>
@@ -70,14 +67,12 @@ Prof. Kay Nieselt<br/><em>Welcome and Orientation</em>
 </td>
 <td style="padding:0px"></td>
 <td>Python<br><em>Pandas</em></td>
-<td>TBA</td>
 </tr>
 <tr>
 <td>15:00-17:00</td>
 <td>Python<br><em>Basics</em></td>
 <td style="padding:0px"></td>
 <td>Python<br><em>Pandas</em></td>
-<td>TBA</td>
 </tr>
 </tbody>
 </table>
