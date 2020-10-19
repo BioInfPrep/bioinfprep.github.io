@@ -92,25 +92,20 @@ person within the last 14 days or currently have contact to an infected person.
 This includes working with patients without adequate protective measures (FFP2
 mask, overall, gloves, protective glasses).<br/><br/>
 
-You can <b>NOT</b> participate in the course if you have symptoms such as
-fever, dry caugh or partial or full loss of your sense of taste or sense of
-smell.
+You can <b>NOT</b> participate in the course if you have or had symptoms in the
+last 48 hours such as fever, dry caugh or partial or full loss of your sense of
+taste or sense of smell.
 </td></tr>
 <tr><td style="border:none"><img style="width:80px;" src="/assets/img/distance.svg"/></td><td style="border:none">
-A distance of at least 2m between all people in the room has to be kept
-(exceptions see below). The room in which the course will take place will be
-sufficiently large to ensure that the required distance between all
-participants can be maintained during the course.<br/><br/>
+A distance of at least 2m between all people in the room has to be kept. The
+room in which the course will take place will be sufficiently large to ensure
+that the required distance between all participants can be maintained during
+the course.<br/><br/>
 
 Please bring sufficiently warm clothing as the room will have to be aired frequently.
 </td></tr>
 <tr><td style="border:none"><img style="width:80px;" src="/assets/img/mask.svg"/></td><td style="border:none">
-Face masks have to be work at all times unless when seated with the required distance to other people in the room.
-During the course, the tutors will walk through the room to offer assistance
-during practical tasks. When a tutor supports a participant at their computer
-and the minimum distance cannot be maintained, both the tutor and the
-participant have to wear a face mask.
-</td></tr>
+Face masks have to be work at all times, also when seated!</td></tr>
 </table>
 
 ## Course Concept
