@@ -53,3 +53,26 @@ Please install [Python](https://www.python.org/downloads/) and the
 community edition, but with a University email address you can also obtain a
 free professional edition
 [here](https://www.jetbrains.com/community/education/#students).
+
+Additionally, please install
+[Miniconda](https://docs.conda.io/en/latest/miniconda.html). After the
+installation, open a Terminal window (Linux, macOS) or a Miniconda Prompt
+(Windows) and create a new environment called "prepcourse" using the following
+one-line command:
+
+    conda create --name prepcourse python=3.8 pandas=1.1.1 seaborn=0.10.1 scikit-learn=0.23.2 jupyter=1.0.0 biopython=1.77
+
+This command creates a Python environment with the listed package versions and
+all of their dependencies (such as numpy, scipy, matplotlib, etc). You can
+activate the environment by running:
+
+    conda activate prepcourse
+
+Next, open a Jupyter notebook server with:
+
+    jupyter notebook
+
+Follow the link shown on screen. If you see a webpage with the Jupyter logo in
+the top-left, and the contents of your home folder (or current working
+directory) on the rest of the screen, you are all set. This is the interface we
+will work with during the course.
