@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unix / Linux"
-author: "Paul Le"
+author: "Léon Kuchenbecker"
 categories: topic
 tags: [topic]
 image: keyboard.jpg
