@@ -93,7 +93,7 @@ This includes working with patients without adequate protective measures (FFP2
 mask, overall, gloves, protective glasses).<br/><br/>
 
 You can <b>NOT</b> participate in the course if you have or had symptoms in the
-last 48 hours such as fever, dry caugh or partial or full loss of your sense of
+last 48 hours such as fever, dry cough or partial or full loss of your sense of
 taste or sense of smell.
 </td></tr>
 <tr><td style="border:none"><img style="width:80px;" src="/assets/img/distance.svg"/></td><td style="border:none">
@@ -130,7 +130,7 @@ The course takes place at the *Sand Campus* of the University of Tübingen.
 can find the building to your left after you have entered the Sand campus
 through the main gate.**
 
-⚠️ **There will be a one hour lunch brake every day, but be aware that there is
+⚠️ **There will be a one hour lunch break every day, but be aware that there is
 no cafeteria at the Sand campus.**
 
 ![SandRoom](/assets/img/sandmap.png){:style="width:100%; max-width:1000px"}
