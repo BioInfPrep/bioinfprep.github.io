@@ -15,7 +15,7 @@ Informatics*. The course typically covers the following topics:
 - An introduction to version control using Git
 - An introduction to typesetting with LaTeX
 - An introduction to programming in Python
-- An introduction to programming in Java *(not taught in the WS2020/21 course)*
+- An introduction to programming in Java
 
 The Bioinformatics Prep Course aims at introducing students to the basic
 computational issues. It is not going to cover entire programming taught in the
@@ -23,6 +23,8 @@ Bachelor Bioinformatics course, rather it is meant to provide a starting point
 for those who are planning a career in bioinformatics, but have no experience
 with Linux-like systems and programming. It is a prep course, therefore no ECTS
 points are awarded.
+
+<!--
 
 ## Timetable
 
@@ -107,7 +109,7 @@ Please bring sufficiently warm clothing as the room will have to be aired freque
 <tr><td style="border:none"><img style="width:80px;" src="/assets/img/mask.svg"/></td><td style="border:none">
 Face masks have to be work at all times, also when seated!</td></tr>
 </table>
-
+-->
 ## Course Concept
 
 The course is designed as a practical course, i.e. you can and are encouraged
@@ -125,10 +127,11 @@ have questions regarding the software installation.
 ![Sand](/assets/img/sand_wide.jpg){:style="width:100%; max-width:1000px"}
 
 The course takes place at the *Sand Campus* of the University of Tübingen.
-
+<!--
 ⚠️ **In October 2020, the course will take place in room F119 (Sand 6). You
 can find the building to your left after you have entered the Sand campus
 through the main gate.**
+-->
 
 ⚠️ **There will be a one hour lunch break every day, but be aware that there is
 no cafeteria at the Sand campus.**
