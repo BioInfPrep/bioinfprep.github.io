@@ -135,5 +135,6 @@ through the main gate.**
 
 ⚠️ **There will be a one hour lunch break every day, but be aware that there is
 no cafeteria at the Sand campus.**
-
+<!--
 ![SandRoom](/assets/img/sandmap.png){:style="width:100%; max-width:1000px"}
+-->
