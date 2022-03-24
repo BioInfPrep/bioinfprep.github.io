@@ -36,6 +36,8 @@ Please install Git on your computer. To do so, follow the [installation
 instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) in
 the official Git Book.
 
+Within the practical exercises we'll use the IDE [IntelliJ](https://www.jetbrains.com/idea/download/) by JetBrains. As a student it is possible to use the ultimate editon of IntelliJ, after providing your student e-mail address to a new or registered JB account while installing the program. Otherwise you can use IntelliJ Community Edition as well.
+
 Additionally, please create an account on [GitHub](https://github.com) if you don't have one already.
 
 ## Python
