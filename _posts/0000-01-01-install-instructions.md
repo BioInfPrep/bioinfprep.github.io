@@ -6,7 +6,7 @@ categories: help
 tags: [help]
 ---
 
-We kindly ask you to prepare your computer by installing the software required in the course beforehand. This saves everyone a lot of time at the beginning since some of the installation procedures can take a couple of minutes. In case something doesn't work out as expected during the software installation, we can still sort things out on-site at the beginning of the course!
+We kindly ask you to prepare your computer by installing the software required in the course beforehand. This saves everyone a lot of time at the beginning since some of the installation procedures can take a couple of minutes. In case something doesn't work out as expected during the software installation, we can still sort things out on-site at the beginning of the course!  
 
 ## Linux
 
