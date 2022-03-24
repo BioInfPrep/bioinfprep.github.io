@@ -17,7 +17,7 @@ for either already having one or getting one:
 
 - If you have macOS as an operating system (true, if you have some MacBook) you're prepared!
 
-- If you have Microsoft Windows as an operating system, you will need to set up a Linux environment, the so-called *Windows Subsystem for Linux* (WSL):
+- If you have Microsoft Windows as an operating system, you need to set up the so-called *Windows Subsystem for Linux* (WSL):
 
   - Windows 10 or 11: 
     - [Instructions](https://www.windowscentral.com/how-install-wsl2-windows-10)  
