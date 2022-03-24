@@ -19,8 +19,7 @@ for either already having one or getting one:
 
 - If you have Microsoft Windows as an operating system, you need to set up the so-called *Windows Subsystem for Linux* (WSL):
 
-  - Windows 10 or 11: 
-    - [Instructions](https://www.windowscentral.com/how-install-wsl2-windows-10)  
+  - Windows 10 or 11: [installation instructions](https://www.windowscentral.com/how-install-wsl2-windows-10)  
   - Other Windows version:
     - You need to install Virtual Box and within it a Linux operating system
     - [Instructions](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox) for installing Virtual Box and an Ubuntu Linux VM
