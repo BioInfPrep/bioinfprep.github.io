@@ -10,7 +10,7 @@ This is a description how to install the *Vorkurs Linux Virtual Machine* on your
 
 ## Download and Install Oracle VirtualBox for Windows
 
-Download and install the latest version (5.2.8) of Oracle VirtualBox for Windows hosts from [here](https://www.virtualbox.org/wiki/Downloads). After the download has completed, run the installer and aggree to all driver installation requests. Reboot your system if requested.
+Download and install the latest version (6.1.x) of Oracle VirtualBox for Windows hosts from [here](https://www.virtualbox.org/wiki/Downloads). After the download has completed, run the installer and aggree to all driver installation requests. Reboot your system if requested.
 
 ## Download and Import the Linux Vorkurs Virtual Machine
 
