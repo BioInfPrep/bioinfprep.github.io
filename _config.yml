@@ -12,8 +12,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Tübingen Bioinfo Prep Course"
-description:	       "Pre-semester preparatory course for Master's students in Bioinformatics and Medical Informatics"
+title:		           "Computer Science for Life Scientists"
+description:	       "Preparatory M.Sc. Bioinformatics and Medical Informatics at University of Tübingen"
 #author:              "Leon Kuchenbecker"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
