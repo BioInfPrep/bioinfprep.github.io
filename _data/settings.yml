@@ -6,6 +6,7 @@ disqus:
 
 menu:
 - {name: 'General Information', folder: 'topic', file: 'general-information.html'}
+- {name: 'Topics', folder: 'topic', file: 'general-information.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #social:
