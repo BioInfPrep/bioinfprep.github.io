@@ -13,7 +13,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Informatics for Life Scientists"
-description:	       "Preparatory course for Variant B M.Sc. students in Bioinformatics and Medical Informatics at University of Tübingen"
+description:	       "Preparatory Course for M.Sc. Students (Variant B) in Bioinformatics and Medical Informatics at University of Tübingen"
 #author:              "Leon Kuchenbecker"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
